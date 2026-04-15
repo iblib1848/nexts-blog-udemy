@@ -33,7 +33,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>私はJava講師です。言語はJava/SpringBootです。</p>
+        <p>私はJava講師です。言語はJava/SpringBootです。Reactもできます。</p>
         <section>
           <h2>📝エンジニアのブログ</h2>
           <div className={styles.grid}>
